@@ -3,7 +3,7 @@ entries:
   nick-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-07T00:58:58.337919239Z"
+    created: "2025-04-07T01:17:21.988891513Z"
     description: A Helm chart for Kubernetes
     digest: ba13ed8aaa6cc98c2deea03a5e71b5d76598f38a807a10de2fc76d8f046c72cd
     name: nick-chart
@@ -11,4 +11,15 @@ entries:
     urls:
     - nick-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2025-04-07T00:58:58.337294025Z"
+  second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-07T01:17:21.989631829Z"
+    description: A Helm chart for Kubernetes
+    digest: 6b3d4f0555076e9f314ca11984a5260df518dd0b550575c5db44107e609f9f1e
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-07T01:17:21.988306761Z"

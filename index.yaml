@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nick-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-07T00:58:58.337919239Z"
+    description: A Helm chart for Kubernetes
+    digest: ba13ed8aaa6cc98c2deea03a5e71b5d76598f38a807a10de2fc76d8f046c72cd
+    name: nick-chart
+    type: application
+    urls:
+    - nick-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-04-07T00:58:58.337294025Z"
